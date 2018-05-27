@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "A2Matrix_INT.h"
 int contain_INT(int m1[30][30],int m2[30][30],int R1,int C1,int R2,int C2)
 {

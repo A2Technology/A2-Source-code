@@ -1,6 +1,5 @@
 #include "A2Matrix_INT.h"
 //delete row and column of a square matrix to find cofactor
-
 int delRCcoFactor_INT(int matrix[30][30], int R, int C, int dR, int dC, int temp[30][30])
 {
     void delRow_INT(int matrix[30][30],int R, int C, int dR, int temp[30][30]);

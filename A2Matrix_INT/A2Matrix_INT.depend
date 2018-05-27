@@ -5,7 +5,7 @@
 1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\additionfactor_int.c
 	"A2Matrix_INT.h"
 
-1527430383 d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\a2matrix_int.h
+1527432428 d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\a2matrix_int.h
 	"A2Matrix_INT.h"
 
 1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\addtion_int.c
@@ -65,8 +65,10 @@
 	<stdlib.h>
 	"A2Matrix_INT.h"
 
-1527430435 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\main.c
+1527430499 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\main.c
 	<stdio.h>
 	<stdlib.h>
 	"A2Matrix_INT.h"
+
+1527355756 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\product_int.c
 
