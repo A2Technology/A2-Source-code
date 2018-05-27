@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1527356352 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\det_int.c
+	<math.h>
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\additionfactor_int.c
+	"A2Matrix_INT.h"
+
+1527432428 d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\a2matrix_int.h
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\addtion_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\contain_int.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\delcol_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\delrccofactor_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\det2_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\divisionfactor_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\enterindex_int.c
+	"A2Matrix_INT.h"
+
+1527430388 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\delrow_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\enterrc_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\multiplicationfactor_int.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\print_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\relationfactor_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\subtraction_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\subtractionfactor_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\symmetric_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\thesame_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\transpose_int.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527430499 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527355756 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_ int\a2matrix_int\product_int.c
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\additionfactor_int.c
+	"A2Matrix_INT.h"
+
+1527437116 d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\a2matrix_int.h
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\addtion_int.c
+	"A2Matrix_INT.h"
+
+1527432498 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\contain_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\delcol_int.c
+	"A2Matrix_INT.h"
+
+1527432498 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\delrccofactor_int.c
+	"A2Matrix_INT.h"
+
+1527430388 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\delrow_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\det2_int.c
+	"A2Matrix_INT.h"
+
+1527356352 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\det_int.c
+	<math.h>
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\enterindex_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\enterrc_int.c
+	"A2Matrix_INT.h"
+
+1527430499 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\print_int.c
+	"A2Matrix_INT.h"
+
+1527355756 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\product_int.c
+
+1527436382 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\relationfactor_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\subtraction_int.c
+	"A2Matrix_INT.h"
+
+1527432498 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\subtractionfactor_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\symmetric_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\thesame_int.c
+	"A2Matrix_INT.h"
+
+1527432498 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\transpose_int.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527436824 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\divisionfactor_int.c
+	"A2Matrix_INT.h"
+
+1527436601 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\multiplicationfactor_int.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527437116 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\equal_double.c
+	<math.h>
+	"A2Matrix_INT.h"
+
+1527437116 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_ int\a2matrix_int\notequal_doulbe.c
+	<math.h>
+	"A2Matrix_INT.h"
+
+1527432498 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\contain_int.c
+	"A2Matrix_INT.h"
+
+1527437116 d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\a2matrix_int.h
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\enterindex_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\enterrc_int.c
+	"A2Matrix_INT.h"
+
+1527430499 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\main.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\print_int.c
+	"A2Matrix_INT.h"
+
+1527430373 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\symmetric_int.c
+	"A2Matrix_INT.h"
+
+1527438254 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\thesame_int.c
+	"A2Matrix_INT.h"
+
+1527432498 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\transpose_int.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix_INT.h"
+
+1527437981 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\add_sub_product_int.c
+	"A2Matrix_INT.h"
+
+1527437616 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\delrccofactor_int.c
+	"A2Matrix_INT.h"
+
+1527437563 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\det_int.c
+	<math.h>
+	"A2Matrix_INT.h"
+
+1527437885 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\equal_double.c
+	<math.h>
+	"A2Matrix_INT.h"
+
+1527437858 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\relationfactor_int.c
+	"A2Matrix_INT.h"
+
+1527438141 source:d:\onedrive\github\a2-source-code\final assignment\final assignment_char\a2matrix_char\matrixio_int.c
+	"A2Matrix_INT.h"
+
