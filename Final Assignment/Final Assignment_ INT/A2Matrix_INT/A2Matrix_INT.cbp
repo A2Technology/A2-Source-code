@@ -31,7 +31,69 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="A2Matrix_DOUBLE.h" />
+		<Unit filename="A2Matrix_INT.h" />
+		<Unit filename="additionFactor_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="addtion_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contain_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delCol_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delRCcoFactor_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delRow_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="det2_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="det_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="divisionFactor_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="enterIndex_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="enterRC_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="multiplicationFactor_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="product_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="relationFactor_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="subtractionFactor_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="subtraction_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="symmetric_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="thesame_INT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="transpose_INT.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

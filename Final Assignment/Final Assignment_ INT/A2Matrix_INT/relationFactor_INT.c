@@ -5,10 +5,11 @@ int relationFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, i
     //return 0 means no relation
     int additionFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, int C2);
     int subtractionFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, int C2);
-    int multiplicationFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, int C2);
-    int divisionFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, int C2);
+    double multiplicationFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, int C2);
+    double divisionFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, int C2);
 
-    int add=0,sub=0,mul=0,div=0;
+    int add=0,sub=0;
+    double mul=0,div=0;
 
     if (R1!=R2||C1!=C2)
     {
@@ -30,8 +31,8 @@ int relationFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, i
         printf("\nMatrix 2 is produced from matrix 1 by these operation:\n\n");
         if (add) printf("Added by      \t%d\n",add);
         if (sub) printf("Subtracted by \t%d\n",sub);
-        if (mul) printf("Multiplied by \t%d\n",mul);
-        if (div) printf("Divided by    \t%d\n",div);
+        if (mul) printf("Multiplied by \t%f\n",mul);
+        if (div) printf("Divided by    \t%f\n",div);
 
         printf("\n\nOr\n\n");
         add=additionFactor_INT(m2,m1,R1,C1,R2,C2);
@@ -41,8 +42,8 @@ int relationFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, i
         printf("\nMatrix 1 is produced from matrix 2 by these operation:\n\n");
         if (add) printf("Added by      \t%d\n",add);
         if (sub) printf("Subtracted by \t%d\n",sub);
-        if (mul) printf("Multiplied by \t%d\n",mul);
-        if (div) printf("Divided by    \t%d\n",div);
+        if (mul) printf("Multiplied by \t%f\n",mul);
+        if (div) printf("Divided by    \t%f\n",div);
         return 1; //confirm that m1 and m2 has a relation
     }
     else {printf("No relation"); return 0;}
