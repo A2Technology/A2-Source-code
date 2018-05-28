@@ -14,7 +14,7 @@ int subtractionFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2
 double divisionFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, int C2);
 double multiplicationFactor_INT(int m1[30][30], int m2[30][30], int R1, int C1, int R2, int C2);
 
-//basis operation of matrices
+//basic operation of matrices
 int addition_INT(int matrix1[30][30], int matrix2[30][30], int R1, int C1, int R2, int C2, int matrix3[30][30]);
 int product_INT(int matrix1[30][30], int matrix2[30][30], int R1, int C1, int R2, int C2, int matrix3[30][30]);
 int subtraction_INT(int matrix1[30][30], int matrix2[30][30], int R1, int C1, int R2, int C2, int matrix3[30][30]);
@@ -22,7 +22,7 @@ void transpose_INT(int matrix[30][30], int R, int C, int transpose[30][30]);
 void delCol_INT(int matrix[30][30],int R, int C, int dC, int temp[30][30]);
 void delRow_INT(int matrix[30][30],int R, int C, int dR, int temp[30][30]);
 
-//basis comparison between two matrices
+//basic comparison between two matrices
 int contain_INT(int m1[30][30],int m2[30][30],int R1,int C1,int R2,int C2);
 int symmetric_INT(int matrix[30][30], int R, int C);
 int thesame_INT(int matrix1[30][30], int matrix2[30][30], int R1, int C1, int R2, int C2);
